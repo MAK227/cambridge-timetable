@@ -1,0 +1,1002 @@
+[
+  {
+    "country": "Afghanistan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Åland Islands",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Albania",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Algeria",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Andorra",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Angola",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Anguilla",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Argentina",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Armenia",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Aruba",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Ascension Island",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Australia",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Austria",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Azerbaijan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Bahamas",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Bahrain",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Bangladesh",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Barbados",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Belarus",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Belgium",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Belize",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Benin",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Bermuda",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Bhutan",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Bolivia",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Botswana",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Brazil",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "British Virgin Islands",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Brunei",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Bulgaria",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Burkina Faso",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Burundi",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Cambodia",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Cameroon",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Canada, Edmonton",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Canada, Halifax",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Canada, Montreal",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Canada, St Johns",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Canada, Vancouver",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Canada, Winnipeg",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Canary Islands",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Cape Verde",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Cayman Islands",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Central African Republic",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Chad",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Chile",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "China, Shanghai",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "China, Hon Kong SAR",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "China, Macau SAR",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Christmas Island",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Colombia",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Comoros",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Costa Rica",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Croatia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Cuba",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Cyprus",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Czech Republic",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Denmark",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Djibouti",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Dominica",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Dominican Republic",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Ecuador",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Egypt",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "El Salvador",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Eritrea",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Estonia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Eswatini",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Ethiopia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Falkland Islands",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Faroe Islands",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Fiji",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Finland",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "France",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "French Guiana",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "French Polynesia",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "French Southern Territories",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Gabon",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Gambia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Georgia (country)",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Germany",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Ghana",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Gibraltar",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Greece",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Greenland, Danmarkshavn",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Greenland, Godthab",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Greenland, Scoresbysund",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Greenland, Thule",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Grenada",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Guadeloupe",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Guam",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Guatemala",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Guernsey",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Guinea",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Guyana",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Haiti",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Honduras",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Hungary",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Iceland",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "India",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Indonesia, Jakarta",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Indonesia, Jayapura",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Indonesia, Makassar",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Iran",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Iraq",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Ireland",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Isle of Man",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Israel",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Italy",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Jamaica",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Japan",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Jersey",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Jordan",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Kazakhstan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Kenya",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Kiribati",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Kuwait",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Laos",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Latvia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Lebanon",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Lesotho",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Liberia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Libya",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Liechtenstein",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Lithuania",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Luxembourg",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Madagascar",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Malawi",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Malaysia",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Maldives",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Mali",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Malta",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Marshall Islands",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Martinique",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Mauritania",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Mauritius",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Mayotte",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Mexico",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Moldova",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Monaco",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Mongolia",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Montenegro",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Montserrat",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Morocco",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Mozambique",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Myanmar",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Namibia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Nauru",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Nepal",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Netherlands Antilles, Curacao",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Netherlands, Amsterdam",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "New Caledonia",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "New Zealand",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Nicaragua",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Niger",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Nigeria",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Norfolk Island",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "North Korea",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Norway",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Oman",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Pakistan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Palau",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Palestinian territories",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Panama",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Papua New Guinea",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Paraguay",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Peru",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Philippines",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Pitcairn",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Poland",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Portugal",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Puerto Rico",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Qatar",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Republic of Macedonia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Republic of the Congo, Brazzaville",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Réunion",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Romania",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Russia",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Rwanda",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Saint Barth",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Saint Helena",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Saint Lucia",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "San Marino",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Saudi Arabia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Senegal",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Serbia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Seychelles",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Sierra Leone",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Singapore",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Slovakia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Slovenia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Solomon Islands",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Somalia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "South Africa",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "South Korea",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Spain",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Sri Lanka",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Sudan",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Suriname",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Sweden",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Switzerland",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Syria",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Taiwan",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Tajikistan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Tanzania",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Thailand",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Timor-Leste",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Togo",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Tonga",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Tunisia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Turkey",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Turkmenistan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Tuvalu",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Uganda",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Ukraine",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "United Arab Emirates, Dubai",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "United Kingdom UK",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "United States Virgin Islands",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "United States, Anchorage",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "United States, Chicago",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "United States, Denver",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "United States, Los Angeles",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "United States, New York",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "United States, Phoenix",
+    "zone": "Zone-1"
+  },
+  {
+    "country": "Uruguay",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Uzbekistan",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Vanuatu",
+    "zone": "Zone-5"
+  },
+  {
+    "country": "Vatican City",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Venezuela",
+    "zone": "Zone-2"
+  },
+  {
+    "country": "Vietnam",
+    "zone": "Zone-4"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "zone": "Zone-6"
+  },
+  {
+    "country": "Western Sahara",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Yemen",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Zambia",
+    "zone": "Zone-3"
+  },
+  {
+    "country": "Zimbabwe",
+    "zone": "Zone-3"
+  }
+]
