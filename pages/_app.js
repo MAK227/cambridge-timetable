@@ -1,5 +1,6 @@
 import "@/styles/globals.css";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import NextNProgress from "nextjs-progressbar";
 import { Fragment } from "react";
 
@@ -11,6 +12,7 @@ function MyApp({ Component, pageProps }) {
         <Component {...pageProps} />
       </div>
       <Analytics />
+      <SpeedInsights />
     </Fragment>
   );
 }

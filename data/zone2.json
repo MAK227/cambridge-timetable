@@ -1,1 +1,2564 @@
-[{"code":"0408","commonSubstring":"World Literature","group":[{"type":"Cambridge IGCSE","subject":"World Literature","code":"0408\/21","duration":"1h 15m","date":"Wednesday 01 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"World Literature","code":"0408\/31","duration":"1h 30m","date":"Tuesday 07 November 2023","session":"PM"}]},{"code":"0409","commonSubstring":"American History","group":[{"type":"Cambridge IGCSE","subject":"American History (US)","code":"0409\/01","duration":"2h","date":"Tuesday 03 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"American History (US)","code":"0409\/02","duration":"1h 45m","date":"Wednesday 11 October 2023","session":"PM"}]},{"code":"0410","commonSubstring":"Music","group":[{"type":"Cambridge IGCSE","subject":"Music (Listening)","code":"0410\/11","duration":"1h 15m","date":"Monday 30 October 2023","session":"PM"}]},{"code":"0411","commonSubstring":"Drama","group":[{"type":"Cambridge IGCSE","subject":"Drama","code":"0411\/11","duration":"2h 30m","date":"Friday 27 October 2023","session":"PM"}]},{"code":"0413","commonSubstring":"Physical Education","group":[{"type":"Cambridge IGCSE","subject":"Physical Education","code":"0413\/11","duration":"1h 45m","date":"Monday 09 October 2023","session":"AM"}]},{"code":"0417","commonSubstring":"Information","group":[{"type":"Cambridge IGCSE","subject":"Information & Communication Technology","code":"0417\/11","duration":"1h 30m","date":"Thursday 19 October 2023","session":"AM"}]},{"code":"0445","commonSubstring":"Design","group":[{"type":"Cambridge IGCSE","subject":"Design & Technology","code":"0445\/11","duration":"1h 15m","date":"Wednesday 25 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Design & Technology","code":"0445\/31","duration":"1h","date":"Friday 03 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Design & Technology","code":"0445\/41","duration":"1h","date":"Friday 03 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Design & Technology","code":"0445\/51","duration":"1h","date":"Friday 03 November 2023","session":"PM"}]},{"code":"0450","commonSubstring":"Business Studies","group":[{"type":"Cambridge IGCSE","subject":"Business Studies","code":"0450\/11","duration":"1h 30m","date":"Friday 13 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Business Studies","code":"0450\/21","duration":"1h 30m","date":"Tuesday 17 October 2023","session":"AM"}]},{"code":"0452","commonSubstring":"Accounting","group":[{"type":"Cambridge IGCSE","subject":"Accounting (Multiple Choice)","code":"0452\/11","duration":"1h 15m","date":"Wednesday 08 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Accounting","code":"0452\/21","duration":"1h 45m","date":"Monday 09 October 2023","session":"PM"}]},{"code":"0454","commonSubstring":"Enterprise","group":[{"type":"Cambridge IGCSE","subject":"Enterprise","code":"0454\/11","duration":"1h 30m","date":"Friday 06 October 2023","session":"PM"}]},{"code":"0455","commonSubstring":"Economics","group":[{"type":"Cambridge IGCSE","subject":"Economics (Multiple Choice)","code":"0455\/11","duration":"45m","date":"Monday 06 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Economics","code":"0455\/21","duration":"2h 15m","date":"Monday 23 October 2023","session":"PM"}]},{"code":"0457","commonSubstring":"Global Perspectives","group":[{"type":"Cambridge IGCSE","subject":"Global Perspectives","code":"0457\/11","duration":"1h 15m","date":"Wednesday 25 October 2023","session":"AM"}]},{"code":"0460","commonSubstring":"Geography","group":[{"type":"Cambridge IGCSE","subject":"Geography","code":"0460\/11","duration":"1h 45m","date":"Friday 20 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Geography","code":"0460\/21","duration":"1h 30m","date":"Wednesday 18 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Geography","code":"0460\/41","duration":"1h 30m","date":"Monday 30 October 2023","session":"PM"}]},{"code":"0470","commonSubstring":"History","group":[{"type":"Cambridge IGCSE","subject":"History","code":"0470\/11","duration":"2h","date":"Friday 06 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"History","code":"0470\/21","duration":"2h","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"History","code":"0470\/41","duration":"1h","date":"Wednesday 25 October 2023","session":"AM"}]},{"code":"0471","commonSubstring":"Travel","group":[{"type":"Cambridge IGCSE","subject":"Travel & Tourism","code":"0471\/11","duration":"2h","date":"Tuesday 10 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Travel & Tourism","code":"0471\/21","duration":"2h 30m","date":"Friday 13 October 2023","session":"PM"}]},{"code":"0475","commonSubstring":"Literature in English","group":[{"type":"Cambridge IGCSE","subject":"Literature in English","code":"0475\/11","duration":"1h 30m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Literature in English","code":"0475\/21","duration":"1h 30m","date":"Tuesday 31 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Literature in English","code":"0475\/31","duration":"45m","date":"Tuesday 31 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Literature in English","code":"0475\/41","duration":"1h 15m","date":"Tuesday 31 October 2023","session":"PM"}]},{"code":"0478","commonSubstring":"Computer Science","group":[{"type":"Cambridge IGCSE","subject":"Computer Science","code":"0478\/11","duration":"1h 45m","date":"Wednesday 11 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Computer Science","code":"0478\/21","duration":"1h 45m","date":"Friday 20 October 2023","session":"PM"}]},{"code":"0488","commonSubstring":"Literature","group":[{"type":"Cambridge IGCSE","subject":"Literature (Spanish)","code":"0488\/01","duration":"2h 15m","date":"Tuesday 03 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Literature (Spanish)","code":"0488\/03","duration":"1h 20m","date":"Thursday 05 October 2023","session":"PM"}]},{"code":"0493","commonSubstring":"Islamiyat","group":[{"type":"Cambridge IGCSE","subject":"Islamiyat","code":"0493\/11","duration":"1h 30m","date":"Monday 02 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Islamiyat","code":"0493\/21","duration":"1h 30m","date":"Wednesday 04 October 2023","session":"AM"}]},{"code":"0495","commonSubstring":"Sociology","group":[{"type":"Cambridge IGCSE","subject":"Sociology","code":"0495\/11","duration":"2h","date":"Monday 16 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Sociology","code":"0495\/21","duration":"1h 45m","date":"Thursday 19 October 2023","session":"PM"}]},{"code":"0500","commonSubstring":"First Language English","group":[{"type":"Cambridge IGCSE","subject":"First Language English (Oral Endorsement)","code":"0500\/11","duration":"2h","date":"Thursday 12 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"First Language English (Oral Endorsement)","code":"0500\/21","duration":"2h","date":"Tuesday 17 October 2023","session":"PM"}]},{"code":"0502","commonSubstring":"First Language Spanish","group":[{"type":"Cambridge IGCSE","subject":"First Language Spanish","code":"0502\/11","duration":"2h","date":"Monday 02 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"First Language Spanish","code":"0502\/21","duration":"2h","date":"Wednesday 04 October 2023","session":"PM"}]},{"code":"0510","commonSubstring":"English as a Second Language","group":[{"type":"Cambridge IGCSE","subject":"English as a Second Language (Speaking Endorsement) (Core)","code":"0510\/11","duration":"1h 30m","date":"Tuesday 10 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"English as a Second Language (Speaking Endorsement) (Extended)","code":"0510\/21","duration":"2h","date":"Tuesday 10 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"English as a Second Language (Speaking Endorsement) (Listening \u2013 Core)","code":"0510\/31","duration":"40m","date":"Monday 16 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"English as a Second Language (Speaking Endorsement) (Listening \u2013 Extended)","code":"0510\/41","duration":"50m","date":"Monday 16 October 2023","session":"AM"}]},{"code":"0511","commonSubstring":"English as a Second Language","group":[{"type":"Cambridge IGCSE","subject":"English as a Second Language (Count-in Speaking) (Core)","code":"0511\/11","duration":"1h 30m","date":"Tuesday 10 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"English as a Second Language (Count-in Speaking) (Extended)","code":"0511\/21","duration":"2h","date":"Tuesday 10 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"English as a Second Language (Count-in Speaking) (Listening \u2013 Core)","code":"0511\/31","duration":"40m","date":"Monday 16 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"English as a Second Language (Count-in Speaking) (Listening \u2013 Extended)","code":"0511\/41","duration":"50m","date":"Monday 16 October 2023","session":"AM"}]},{"code":"0520","commonSubstring":"French","group":[{"type":"Cambridge IGCSE","subject":"French (Listening \u2013 Multiple Choice)","code":"0520\/11","duration":"50m","date":"Thursday 16 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"French","code":"0520\/21","duration":"1h","date":"Wednesday 25 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"French","code":"0520\/41","duration":"1h","date":"Friday 27 October 2023","session":"PM"}]},{"code":"0530","commonSubstring":"Spanish","group":[{"type":"Cambridge IGCSE","subject":"Spanish (Listening \u2013 Multiple Choice)","code":"0530\/11","duration":"50m","date":"Friday 17 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Spanish","code":"0530\/21","duration":"1h","date":"Thursday 26 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Spanish","code":"0530\/41","duration":"1h","date":"Monday 30 October 2023","session":"AM"}]},{"code":"0531","commonSubstring":"IsiZulu as a Second Language","group":[{"type":"Cambridge IGCSE","subject":"IsiZulu as a Second Language","code":"0531\/01","duration":"2h","date":"Monday 23 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"IsiZulu as a Second Language (Listening)","code":"0531\/02","duration":"45m","date":"Friday 20 October 2023","session":"AM"}]},{"code":"0548","commonSubstring":"Afrikaans as a Second Language","group":[{"type":"Cambridge IGCSE","subject":"Afrikaans as a Second Language","code":"0548\/01","duration":"2h","date":"Friday 20 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Afrikaans as a Second Language (Listening)","code":"0548\/02","duration":"45m","date":"Monday 16 October 2023","session":"AM"}]},{"code":"0549","commonSubstring":"Hindi as a Second Language","group":[{"type":"Cambridge IGCSE","subject":"Hindi as a Second Language","code":"0549\/01","duration":"2h","date":"Monday 23 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Hindi as a Second Language","code":"0549\/02","duration":"45m","date":"Friday 20 October 2023","session":"AM"}]},{"code":"0580","commonSubstring":"Mathematics","group":[{"type":"Cambridge IGCSE","subject":"Mathematics (Core)","code":"0580\/11","duration":"1h","date":"Wednesday 11 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Mathematics (Extended)","code":"0580\/21","duration":"1h 30m","date":"Wednesday 11 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Mathematics (Core)","code":"0580\/31","duration":"2h","date":"Wednesday 18 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Mathematics (Extended)","code":"0580\/41","duration":"2h 30m","date":"Wednesday 18 October 2023","session":"AM"}]},{"code":"0600","commonSubstring":"Agriculture","group":[{"type":"Cambridge IGCSE","subject":"Agriculture","code":"0600\/11","duration":"1h 45m","date":"Thursday 19 October 2023","session":"AM"}]},{"code":"0606","commonSubstring":"Additional Mathematics","group":[{"type":"Cambridge IGCSE","subject":"Additional Mathematics","code":"0606\/11","duration":"2h","date":"Friday 06 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Additional Mathematics","code":"0606\/21","duration":"2h","date":"Monday 09 October 2023","session":"PM"}]},{"code":"0607","commonSubstring":"Cambridge International Mathematics","group":[{"type":"Cambridge IGCSE","subject":"Cambridge International Mathematics (Core)","code":"0607\/11","duration":"45m","date":"Tuesday 03 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Cambridge International Mathematics (Extended)","code":"0607\/21","duration":"45m","date":"Tuesday 03 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Cambridge International Mathematics (Core)","code":"0607\/31","duration":"1h 45m","date":"Wednesday 11 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Cambridge International Mathematics (Extended)","code":"0607\/41","duration":"2h 15m","date":"Wednesday 11 October 2023","session":"AM"}]},{"code":"0610","commonSubstring":"Biology","group":[{"type":"Cambridge IGCSE","subject":"Biology (Multiple Choice \u2013 Core)","code":"0610\/11","duration":"45m","date":"Tuesday 14 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Biology (Multiple Choice \u2013 Extended)","code":"0610\/21","duration":"45m","date":"Tuesday 14 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Biology (Core)","code":"0610\/31","duration":"1h 15m","date":"Monday 16 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Biology (Extended)","code":"0610\/41","duration":"1h 15m","date":"Monday 16 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Biology (Practical)","code":"0610\/51","duration":"1h 15m","date":"Thursday 19 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Biology (Alternative to Practical)","code":"0610\/61","duration":"1h","date":"Thursday 19 October 2023","session":"PM"}]},{"code":"0620","commonSubstring":"Chemistry","group":[{"type":"Cambridge IGCSE","subject":"Chemistry (Multiple Choice \u2013 Core)","code":"0620\/11","duration":"45m","date":"Wednesday 15 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Chemistry (Multiple Choice \u2013 Extended)","code":"0620\/21","duration":"45m","date":"Wednesday 15 November 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Chemistry (Core)","code":"0620\/31","duration":"1h 15m","date":"Friday 13 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Chemistry (Extended)","code":"0620\/41","duration":"1h 15m","date":"Friday 13 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Chemistry (Practical)","code":"0620\/51","duration":"1h 15m","date":"Thursday 26 October 2023","session":"PM"},{"type":"Cambridge IGCSE","subject":"Chemistry (Alternative to Practical)","code":"0620\/61","duration":"1h","date":"Thursday 26 October 2023","session":"PM"}]},{"code":"0625","commonSubstring":"Physics","group":[{"type":"Cambridge IGCSE","subject":"Physics (Multiple Choice \u2013 Core)","code":"0625\/11","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physics (Multiple Choice \u2013 Extended)","code":"0625\/21","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physics (Core)","code":"0625\/31","duration":"1h 15m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physics (Extended)","code":"0625\/41","duration":"1h 15m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physics (Practical)","code":"0625\/51","duration":"1h 15m","date":"Tuesday 24 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physics (Alternative to Practical)","code":"0625\/61","duration":"1h","date":"Tuesday 24 October 2023","session":"AM"}]},{"code":"0648","commonSubstring":"Food","group":[{"type":"Cambridge IGCSE","subject":"Food & Nutrition","code":"0648\/11","duration":"2h","date":"Thursday 26 October 2023","session":"AM"}]},{"code":"0652","commonSubstring":"Physical Science","group":[{"type":"Cambridge IGCSE","subject":"Physical Science (Multiple Choice \u2013 Core)","code":"0652\/11","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physical Science (Multiple Choice \u2013 Extended)","code":"0652\/21","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physical Science (Core)","code":"0652\/31","duration":"1h 15m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physical Science (Extended)","code":"0652\/41","duration":"1h 15m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physical Science (Practical)","code":"0652\/51","duration":"1h 15m","date":"Tuesday 24 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Physical Science (Alternative to Practical)","code":"0652\/61","duration":"1h","date":"Tuesday 24 October 2023","session":"AM"}]},{"code":"0653","commonSubstring":"Combined Science","group":[{"type":"Cambridge IGCSE","subject":"Combined Science (Multiple Choice \u2013 Core)","code":"0653\/11","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Combined Science (Multiple Choice \u2013 Extended)","code":"0653\/21","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Combined Science (Core)","code":"0653\/31","duration":"1h 15m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Combined Science (Extended)","code":"0653\/41","duration":"1h 15m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Combined Science (Practical)","code":"0653\/51","duration":"1h 15m","date":"Tuesday 24 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Combined Science (Alternative to Practical)","code":"0653\/61","duration":"1h","date":"Tuesday 24 October 2023","session":"AM"}]},{"code":"0654","commonSubstring":"C","group":[{"type":"Cambridge IGCSE","subject":"Choice \u2013 Core)","code":"0654\/11","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Choice \u2013 Extended)","code":"0654\/21","duration":"45m","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Co-ordinated Sciences (Double Award) (Core)","code":"0654\/31","duration":"2h","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Co-ordinated Sciences (Double Award) (Extended)","code":"0654\/41","duration":"2h","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Co-ordinated Sciences (Double Award) (Practical)","code":"0654\/51","duration":"2h","date":"Tuesday 24 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Co-ordinated Sciences (Double Award) (Alternative to Practical)","code":"0654\/61","duration":"1h 30m","date":"Tuesday 24 October 2023","session":"AM"}]},{"code":"0680","commonSubstring":"Environmental Management","group":[{"type":"Cambridge IGCSE","subject":"Environmental Management","code":"0680\/11","duration":"1h 45m","date":"Monday 02 October 2023","session":"AM"},{"type":"Cambridge IGCSE","subject":"Environmental Management","code":"0680\/21","duration":"1h 45m","date":"Thursday 05 October 2023","session":"AM"}]},{"code":"8021","commonSubstring":"English General Paper","group":[{"type":"Cambridge International AS Level","subject":"English General Paper","code":"8021\/11","duration":"1h 15m","date":"Monday 02 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"English General Paper","code":"8021\/21","duration":"1h 45m","date":"Wednesday 04 October 2023","session":"AM"}]},{"code":"8281","commonSubstring":"Japanese Language","group":[{"type":"Cambridge International AS Level","subject":"Japanese Language","code":"8281\/02","duration":"1h 45m","date":"Thursday 05 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Japanese Language","code":"8281\/03","duration":"1h 30m","date":"Tuesday 03 October 2023","session":"PM"}]},{"code":"8291","commonSubstring":"Environmental Management","group":[{"type":"Cambridge International AS Level","subject":"Environmental Management","code":"8291\/11","duration":"1h 45m","date":"Tuesday 03 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Environmental Management","code":"8291\/21","duration":"1h 45m","date":"Thursday 05 October 2023","session":"PM"}]},{"code":"8665","commonSubstring":"First Language Spanish","group":[{"type":"Cambridge International AS Level","subject":"First Language Spanish","code":"8665\/21","duration":"1h 45m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"First Language Spanish","code":"8665\/41","duration":"2h 30m","date":"Monday 13 November 2023","session":"PM"}]},{"code":"8673","commonSubstring":"Spanish Literature","group":[{"type":"Cambridge International AS Level","subject":"Spanish Literature","code":"8673\/41","duration":"2h 30m","date":"Monday 13 November 2023","session":"PM"}]},{"code":"8675","commonSubstring":"Hindi Literature","group":[{"type":"Cambridge International AS Level","subject":"Hindi Literature","code":"8675\/04","duration":"2h 30m","date":"Tuesday 03 October 2023","session":"AM"}]},{"code":"8679","commonSubstring":"Afrikaans Language","group":[{"type":"Cambridge International AS Level","subject":"Afrikaans Language","code":"8679\/02","duration":"1h 45m","date":"Friday 06 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Afrikaans Language","code":"8679\/03","duration":"1h 30m","date":"Monday 02 October 2023","session":"AM"}]},{"code":"8680","commonSubstring":"Arabic Language","group":[{"type":"Cambridge International AS Level","subject":"Arabic Language","code":"8680\/21","duration":"1h 45m","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Arabic Language","code":"8680\/31","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"}]},{"code":"8681","commonSubstring":"Chinese Language","group":[{"type":"Cambridge International AS Level","subject":"Chinese Language","code":"8681\/21","duration":"1h 45m","date":"Thursday 05 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Chinese Language","code":"8681\/31","duration":"1h 30m","date":"Thursday 12 October 2023","session":"AM"}]},{"code":"8682","commonSubstring":"French Language","group":[{"type":"Cambridge International AS Level","subject":"French Language","code":"8682\/21","duration":"1h 45m","date":"Friday 06 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"French Language","code":"8682\/31","duration":"1h 30m","date":"Wednesday 04 October 2023","session":"PM"}]},{"code":"8683","commonSubstring":"German Language","group":[{"type":"Cambridge International AS Level","subject":"German Language","code":"8683\/21","duration":"1h 45m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"German Language","code":"8683\/31","duration":"1h 30m","date":"Wednesday 11 October 2023","session":"PM"}]},{"code":"8685","commonSubstring":"Spanish Language","group":[{"type":"Cambridge International AS Level","subject":"Spanish Language","code":"8685\/21","duration":"1h 45m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Spanish Language","code":"8685\/31","duration":"1h 30m","date":"Wednesday 11 October 2023","session":"PM"}]},{"code":"8686","commonSubstring":"Urdu Language","group":[{"type":"Cambridge International AS Level","subject":"Urdu Language","code":"8686\/02","duration":"1h 45m","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Urdu Language","code":"8686\/03","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"}]},{"code":"8687","commonSubstring":"Hindi Language","group":[{"type":"Cambridge International AS Level","subject":"Hindi Language","code":"8687\/02","duration":"1h 45m","date":"Friday 13 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Hindi Language","code":"8687\/03","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"}]},{"code":"8689","commonSubstring":"Tamil Language","group":[{"type":"Cambridge International AS Level","subject":"Tamil Language","code":"8689\/21","duration":"1h 45m","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Tamil Language","code":"8689\/31","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"}]},{"code":"8695","commonSubstring":"Language","group":[{"type":"Cambridge International AS Level","subject":"Language & Literature in English","code":"8695\/11","duration":"2h","date":"Monday 30 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Language & Literature in English","code":"8695\/21","duration":"2h","date":"Monday 16 October 2023","session":"PM"}]},{"code":"9084","commonSubstring":"Law","group":[{"type":"Cambridge International AS Level","subject":"Law","code":"9084\/11","duration":"1h 30m","date":"Monday 02 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Law","code":"9084\/21","duration":"1h 30m","date":"Thursday 05 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Law","code":"9084\/31","duration":"1h 30m","date":"Wednesday 11 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Law","code":"9084\/41","duration":"1h 30m","date":"Friday 20 October 2023","session":"AM"}]},{"code":"9093","commonSubstring":"English Language","group":[{"type":"Cambridge International AS Level","subject":"English Language","code":"9093\/11","duration":"2h 15m","date":"Wednesday 25 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"English Language","code":"9093\/21","duration":"2h","date":"Monday 30 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"English Language","code":"9093\/31","duration":"2h 15m","date":"Wednesday 01 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"English Language","code":"9093\/41","duration":"2h 15m","date":"Friday 03 November 2023","session":"PM"}]},{"code":"9231","commonSubstring":"Further Mathematics","group":[{"type":"Cambridge International AS Level","subject":"Further Mathematics","code":"9231\/11","duration":"2h","date":"Monday 09 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Further Mathematics","code":"9231\/21","duration":"2h","date":"Wednesday 01 November 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Further Mathematics","code":"9231\/31","duration":"1h 30m","date":"Wednesday 25 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Further Mathematics","code":"9231\/41","duration":"1h 30m","date":"Friday 03 November 2023","session":"AM"}]},{"code":"9239","commonSubstring":"Global Perspectives","group":[{"type":"Cambridge International AS Level","subject":"Global Perspectives & Research","code":"9239\/11","duration":"1h 30m","date":"Tuesday 03 October 2023","session":"AM"}]},{"code":"9274","commonSubstring":"Classical Studies","group":[{"type":"Cambridge International AS Level","subject":"Classical Studies","code":"9274\/11","duration":"1h 30m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Classical Studies","code":"9274\/21","duration":"1h 30m","date":"Thursday 26 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Classical Studies","code":"9274\/31","duration":"1h 30m","date":"Thursday 02 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Classical Studies","code":"9274\/41","duration":"1h 30m","date":"Friday 10 November 2023","session":"PM"}]},{"code":"9395","commonSubstring":"Travel","group":[{"type":"Cambridge International AS Level","subject":"Travel & Tourism","code":"9395\/11","duration":"2h 30m","date":"Monday 02 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Travel & Tourism","code":"9395\/31","duration":"1h 30m","date":"Tuesday 10 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Travel & Tourism","code":"9395\/41","duration":"1h 30m","date":"Tuesday 17 October 2023","session":"PM"}]},{"code":"9396","commonSubstring":"Physical Education","group":[{"type":"Cambridge International AS Level","subject":"Physical Education","code":"9396\/11","duration":"2h 30m","date":"Tuesday 07 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Physical Education","code":"9396\/31","duration":"2h 30m","date":"Thursday 09 November 2023","session":"PM"}]},{"code":"9482","commonSubstring":"Drama","group":[{"type":"Cambridge International AS Level","subject":"Drama","code":"9482\/11","duration":"2h","date":"Friday 10 November 2023","session":"PM"}]},{"code":"9483","commonSubstring":"Music","group":[{"type":"Cambridge International AS Level","subject":"Music (Listening)","code":"9483\/11","duration":"2h","date":"Thursday 09 November 2023","session":"PM"}]},{"code":"9484","commonSubstring":"Biblical Studies","group":[{"type":"Cambridge International AS Level","subject":"Biblical Studies","code":"9484\/11","duration":"1h 30m","date":"Wednesday 08 November 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Biblical Studies","code":"9484\/21","duration":"1h 30m","date":"Monday 13 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Biblical Studies","code":"9484\/31","duration":"1h 30m","date":"Wednesday 15 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Biblical Studies","code":"9484\/41","duration":"1h 30m","date":"Friday 17 November 2023","session":"PM"}]},{"code":"9489","commonSubstring":"History","group":[{"type":"Cambridge International AS Level","subject":"History","code":"9489\/11","duration":"1h 15m","date":"Wednesday 18 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"History","code":"9489\/21","duration":"1h 45m","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"History","code":"9489\/31","duration":"1h 15m","date":"Monday 30 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"History","code":"9489\/41","duration":"1h 45m","date":"Thursday 02 November 2023","session":"AM"}]},{"code":"9607","commonSubstring":"Media Studies","group":[{"type":"Cambridge International AS Level","subject":"Media Studies","code":"9607\/02","duration":"2h","date":"Thursday 09 November 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Media Studies","code":"9607\/04","duration":"2h","date":"Tuesday 14 November 2023","session":"AM"}]},{"code":"9609","commonSubstring":"Business","group":[{"type":"Cambridge International AS Level","subject":"Business","code":"9609\/11","duration":"1h 15m","date":"Monday 09 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Business","code":"9609\/21","duration":"1h 30m","date":"Friday 13 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Business","code":"9609\/31","duration":"1h 45m","date":"Monday 16 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Business","code":"9609\/41","duration":"1h 15m","date":"Thursday 19 October 2023","session":"AM"}]},{"code":"9618","commonSubstring":"Computer Science","group":[{"type":"Cambridge International AS Level","subject":"Computer Science","code":"9618\/11","duration":"1h 30m","date":"Wednesday 11 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Computer Science","code":"9618\/21","duration":"2h","date":"Friday 20 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Computer Science (Advanced)","code":"9618\/31","duration":"1h 30m","date":"Wednesday 25 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Computer Science (Practical)","code":"9618\/41","duration":"2h 30m","date":"Tuesday 31 October 2023","session":"AM"}]},{"code":"9626","commonSubstring":"Information Technology","group":[{"type":"Cambridge International AS Level","subject":"Information Technology","code":"9626\/11","duration":"1h 45m","date":"Thursday 12 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Information Technology (Advanced)","code":"9626\/31","duration":"1h 45m","date":"Monday 23 October 2023","session":"PM"}]},{"code":"9676","commonSubstring":"Urdu","group":[{"type":"Cambridge International A Level","subject":"Urdu","code":"9676\/02","duration":"1h 45m","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Urdu","code":"9676\/03","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Urdu","code":"9676\/04","duration":"2h 30m","date":"Tuesday 03 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Urdu","code":"9676\/05","duration":"45m","date":"Friday 27 October 2023","session":"AM"}]},{"code":"9680","commonSubstring":"Arabic","group":[{"type":"Cambridge International A Level","subject":"Arabic","code":"9680\/21","duration":"1h 45m","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Arabic","code":"9680\/31","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Arabic","code":"9680\/41","duration":"2h 30m","date":"Tuesday 03 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Arabic","code":"9680\/51","duration":"45m","date":"Friday 27 October 2023","session":"AM"}]},{"code":"9687","commonSubstring":"Hindi","group":[{"type":"Cambridge International A Level","subject":"Hindi","code":"9687\/02","duration":"1h 45m","date":"Friday 13 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Hindi","code":"9687\/03","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Hindi","code":"9687\/04","duration":"2h 30m","date":"Tuesday 03 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Hindi","code":"9687\/05","duration":"45m","date":"Friday 27 October 2023","session":"AM"}]},{"code":"9689","commonSubstring":"Tamil","group":[{"type":"Cambridge International A Level","subject":"Tamil","code":"9689\/21","duration":"1h 45m","date":"Friday 27 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Tamil","code":"9689\/31","duration":"1h 30m","date":"Friday 06 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Tamil","code":"9689\/41","duration":"2h 30m","date":"Tuesday 03 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Tamil","code":"9689\/51","duration":"45m","date":"Friday 27 October 2023","session":"AM"}]},{"code":"9693","commonSubstring":"Marine Science","group":[{"type":"Cambridge International AS Level","subject":"Marine Science","code":"9693\/11","duration":"1h 45m","date":"Monday 09 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Marine Science","code":"9693\/21","duration":"1h 45m","date":"Wednesday 18 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Marine Science","code":"9693\/31","duration":"1h 45m","date":"Wednesday 01 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Marine Science","code":"9693\/41","duration":"1h 45m","date":"Friday 03 November 2023","session":"PM"}]},{"code":"9694","commonSubstring":"Thinking Skills","group":[{"type":"Cambridge International AS Level","subject":"Thinking Skills","code":"9694\/11","duration":"1h 30m","date":"Tuesday 03 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Thinking Skills","code":"9694\/21","duration":"1h 45m","date":"Friday 06 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Thinking Skills","code":"9694\/31","duration":"2h","date":"Friday 13 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Thinking Skills","code":"9694\/41","duration":"1h 45m","date":"Thursday 26 October 2023","session":"PM"}]},{"code":"9695","commonSubstring":"Literature in English","group":[{"type":"Cambridge International AS Level","subject":"Literature in English","code":"9695\/11","duration":"2h","date":"Monday 16 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Literature in English","code":"9695\/21","duration":"2h","date":"Tuesday 31 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Literature in English","code":"9695\/31","duration":"2h","date":"Monday 06 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Literature in English","code":"9695\/41","duration":"2h","date":"Wednesday 08 November 2023","session":"PM"}]},{"code":"9696","commonSubstring":"Geography","group":[{"type":"Cambridge International AS Level","subject":"Geography (Core)","code":"9696\/11","duration":"1h 30m","date":"Tuesday 10 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Geography (Core)","code":"9696\/21","duration":"1h 30m","date":"Friday 03 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Geography (Advanced)","code":"9696\/31","duration":"1h 30m","date":"Monday 06 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Geography (Advanced)","code":"9696\/41","duration":"1h 30m","date":"Thursday 09 November 2023","session":"PM"}]},{"code":"9699","commonSubstring":"Sociology","group":[{"type":"Cambridge International AS Level","subject":"Sociology","code":"9699\/11","duration":"1h 30m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Sociology","code":"9699\/21","duration":"1h 30m","date":"Monday 23 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Sociology","code":"9699\/31","duration":"1h 15m","date":"Monday 06 November 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Sociology","code":"9699\/41","duration":"1h 45m","date":"Wednesday 08 November 2023","session":"AM"}]},{"code":"9700","commonSubstring":"Biology","group":[{"type":"Cambridge International AS Level","subject":"Biology (Multiple Choice)","code":"9700\/11","duration":"1h 15m","date":"Tuesday 14 November 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Biology","code":"9700\/21","duration":"1h 15m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Biology (Practical \u2013 Advanced)","code":"9700\/31","duration":"2h","date":"Thursday 12 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Biology","code":"9700\/41","duration":"2h","date":"Thursday 26 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Biology","code":"9700\/51","duration":"1h 15m","date":"Tuesday 24 October 2023","session":"PM"}]},{"code":"9701","commonSubstring":"Chemistry","group":[{"type":"Cambridge International AS Level","subject":"Chemistry (Multiple Choice)","code":"9701\/11","duration":"1h 15m","date":"Thursday 16 November 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Chemistry","code":"9701\/21","duration":"1h 15m","date":"Friday 20 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Chemistry (Practical \u2013 Advanced)","code":"9701\/31","duration":"2h","date":"Tuesday 10 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Chemistry","code":"9701\/41","duration":"2h","date":"Friday 27 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Chemistry","code":"9701\/51","duration":"1h 15m","date":"Friday 20 October 2023","session":"PM"}]},{"code":"9702","commonSubstring":"Physics","group":[{"type":"Cambridge International AS Level","subject":"Physics (Multiple Choice)","code":"9702\/11","duration":"1h 15m","date":"Wednesday 15 November 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Physics","code":"9702\/21","duration":"1h 15m","date":"Thursday 19 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Physics (Practical \u2013 Advanced)","code":"9702\/31","duration":"2h","date":"Tuesday 17 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Physics","code":"9702\/41","duration":"2h","date":"Monday 09 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Physics","code":"9702\/51","duration":"1h 15m","date":"Thursday 19 October 2023","session":"PM"}]},{"code":"9705","commonSubstring":"Design","group":[{"type":"Cambridge International AS Level","subject":"Design & Technology","code":"9705\/11","duration":"3h","date":"Friday 10 November 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Design & Technology","code":"9705\/31","duration":"3h","date":"Tuesday 14 November 2023","session":"PM"}]},{"code":"9706","commonSubstring":"Accounting","group":[{"type":"Cambridge International AS Level","subject":"Accounting (Multiple Choice)","code":"9706\/11","duration":"1h","date":"Wednesday 15 November 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Accounting","code":"9706\/21","duration":"1h 45m","date":"Wednesday 18 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Accounting","code":"9706\/31","duration":"1h 30m","date":"Tuesday 24 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Accounting","code":"9706\/41","duration":"1h","date":"Monday 30 October 2023","session":"AM"}]},{"code":"9708","commonSubstring":"Economics","group":[{"type":"Cambridge International AS Level","subject":"Economics (Multiple Choice)","code":"9708\/11","duration":"1h","date":"Tuesday 14 November 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Economics","code":"9708\/21","duration":"2h","date":"Tuesday 10 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Economics (Multiple Choice)","code":"9708\/31","duration":"1h 15m","date":"Thursday 16 November 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Economics","code":"9708\/41","duration":"2h","date":"Tuesday 17 October 2023","session":"AM"}]},{"code":"9709","commonSubstring":"Mathematics","group":[{"type":"Cambridge International AS Level","subject":"Mathematics (Pure Mathematics 1)","code":"9709\/11","duration":"1h 50m","date":"Wednesday 11 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Mathematics (Pure Mathematics 2)","code":"9709\/21","duration":"1h 15m","date":"Monday 16 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Mathematics (Pure Mathematics 3)","code":"9709\/31","duration":"1h 50m","date":"Wednesday 18 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Mathematics (Mechanics)","code":"9709\/41","duration":"1h 15m","date":"Monday 16 October 2023","session":"PM"},{"type":"Cambridge International AS Level","subject":"Mathematics (Probability & Statistics 1)","code":"9709\/51","duration":"1h 15m","date":"Friday 13 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Mathematics (Probability & Statistics 2)","code":"9709\/61","duration":"1h 15m","date":"Monday 16 October 2023","session":"PM"}]},{"code":"9715","commonSubstring":"Chinese","group":[{"type":"Cambridge International A Level","subject":"Chinese","code":"9715\/21","duration":"1h 45m","date":"Thursday 05 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Chinese","code":"9715\/31","duration":"1h 30m","date":"Thursday 12 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Chinese","code":"9715\/41","duration":"2h 30m","date":"Thursday 26 October 2023","session":"AM"}]},{"code":"9716","commonSubstring":"French","group":[{"type":"Cambridge International A Level","subject":"French","code":"9716\/21","duration":"1h 45m","date":"Friday 06 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"French","code":"9716\/31","duration":"1h 30m","date":"Wednesday 04 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"French","code":"9716\/41","duration":"2h 30m","date":"Monday 23 October 2023","session":"PM"}]},{"code":"9717","commonSubstring":"German","group":[{"type":"Cambridge International A Level","subject":"German","code":"9717\/21","duration":"1h 45m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"German","code":"9717\/31","duration":"1h 30m","date":"Wednesday 11 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"German","code":"9717\/41","duration":"2h 30m","date":"Friday 27 October 2023","session":"PM"}]},{"code":"9719","commonSubstring":"Spanish","group":[{"type":"Cambridge International A Level","subject":"Spanish","code":"9719\/21","duration":"1h 45m","date":"Tuesday 24 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Spanish","code":"9719\/31","duration":"1h 30m","date":"Wednesday 11 October 2023","session":"PM"},{"type":"Cambridge International A Level","subject":"Spanish","code":"9719\/41","duration":"2h 30m","date":"Monday 13 November 2023","session":"PM"}]},{"code":"9990","commonSubstring":"Psychology","group":[{"type":"Cambridge International AS Level","subject":"Psychology","code":"9990\/11","duration":"1h 30m","date":"Tuesday 17 October 2023","session":"AM"},{"type":"Cambridge International AS Level","subject":"Psychology","code":"9990\/21","duration":"1h 30m","date":"Tuesday 24 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Psychology","code":"9990\/31","duration":"1h 30m","date":"Thursday 26 October 2023","session":"AM"},{"type":"Cambridge International A Level","subject":"Psychology","code":"9990\/41","duration":"1h 30m","date":"Tuesday 07 November 2023","session":"AM"}]}]
+[
+  {
+    "code": "0408",
+    "commonSubstring": "World Literature",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "World Literature",
+        "code": "0408/21",
+        "duration": "1h 15m",
+        "date": "Monday 20 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "World Literature",
+        "code": "0408/31",
+        "duration": "1h 30m",
+        "date": "Wednesday 22 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0409",
+    "commonSubstring": "American History",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "American History (US)",
+        "code": "0409/01",
+        "duration": "2h",
+        "date": "Wednesday 01 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "American History (US)",
+        "code": "0409/02",
+        "duration": "1h 45m",
+        "date": "Thursday 09 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0410",
+    "commonSubstring": "Music",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Music (Listening)",
+        "code": "0410/11",
+        "duration": "1h 15m",
+        "date": "Thursday 23 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0411",
+    "commonSubstring": "Drama",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Drama",
+        "code": "0411/11",
+        "duration": "2h 30m",
+        "date": "Tuesday 04 June 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0413",
+    "commonSubstring": "Physical Education",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Education",
+        "code": "0413/11",
+        "duration": "1h 45m",
+        "date": "Tuesday 21 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0417",
+    "commonSubstring": "Information",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Information & Communication Technology",
+        "code": "0417/11",
+        "duration": "1h 30m",
+        "date": "Wednesday 08 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0445",
+    "commonSubstring": "Design",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/11",
+        "duration": "1h 15m",
+        "date": "Monday 20 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/31",
+        "duration": "1h",
+        "date": "Tuesday 04 June 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/41",
+        "duration": "1h",
+        "date": "Tuesday 04 June 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/51",
+        "duration": "1h",
+        "date": "Tuesday 04 June 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0450",
+    "commonSubstring": "Business Studies",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Business Studies",
+        "code": "0450/11",
+        "duration": "1h 30m",
+        "date": "Friday 17 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Business Studies",
+        "code": "0450/21",
+        "duration": "1h 30m",
+        "date": "Tuesday 21 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0452",
+    "commonSubstring": "Accounting",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Accounting (Multiple Choice)",
+        "code": "0452/11",
+        "duration": "1h 15m",
+        "date": "Thursday 30 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Accounting",
+        "code": "0452/21",
+        "duration": "1h 45m",
+        "date": "Wednesday 22 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0454",
+    "commonSubstring": "Enterprise",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Enterprise",
+        "code": "0454/11",
+        "duration": "1h 30m",
+        "date": "Wednesday 05 June 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0455",
+    "commonSubstring": "Economics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Economics (Multiple Choice)",
+        "code": "0455/11",
+        "duration": "45m",
+        "date": "Thursday 06 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Economics",
+        "code": "0455/21",
+        "duration": "2h 15m",
+        "date": "Friday 24 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0457",
+    "commonSubstring": "Global Perspectives",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Global Perspectives",
+        "code": "0457/11",
+        "duration": "1h 15m",
+        "date": "Wednesday 08 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0460",
+    "commonSubstring": "Geography",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Geography",
+        "code": "0460/11",
+        "duration": "1h 45m",
+        "date": "Thursday 02 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Geography",
+        "code": "0460/21",
+        "duration": "1h 30m",
+        "date": "Thursday 16 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Geography",
+        "code": "0460/41",
+        "duration": "1h 30m",
+        "date": "Tuesday 21 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0470",
+    "commonSubstring": "History",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "History",
+        "code": "0470/11",
+        "duration": "2h",
+        "date": "Friday 10 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "History",
+        "code": "0470/21",
+        "duration": "1h 45m",
+        "date": "Tuesday 14 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "History",
+        "code": "0470/41",
+        "duration": "1h",
+        "date": "Monday 20 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0471",
+    "commonSubstring": "Travel",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Travel & Tourism",
+        "code": "0471/11",
+        "duration": "1h 30m",
+        "date": "Friday 10 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Travel & Tourism",
+        "code": "0471/21",
+        "duration": "2h",
+        "date": "Thursday 23 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0472",
+    "commonSubstring": "English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English (as an Additional Language) (Listening \u2013 Multiple Choice)",
+        "code": "0472/11",
+        "duration": "50m",
+        "date": "Thursday 23 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English (as an Additional Language)",
+        "code": "0472/21",
+        "duration": "1h",
+        "date": "Wednesday 08 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English (as an Additional Language)",
+        "code": "0472/41",
+        "duration": "1h",
+        "date": "Wednesday 08 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0475",
+    "commonSubstring": "Literature in English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/11",
+        "duration": "1h 30m",
+        "date": "Monday 13 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/21",
+        "duration": "1h 30m",
+        "date": "Wednesday 15 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/31",
+        "duration": "45m",
+        "date": "Wednesday 15 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/41",
+        "duration": "1h 15m",
+        "date": "Wednesday 15 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0478",
+    "commonSubstring": "Computer Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Computer Science",
+        "code": "0478/11",
+        "duration": "1h 45m",
+        "date": "Wednesday 15 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Computer Science",
+        "code": "0478/21",
+        "duration": "1h 45m",
+        "date": "Monday 20 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0488",
+    "commonSubstring": "Literature",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature (Spanish)",
+        "code": "0488/11",
+        "duration": "2h 15m",
+        "date": "Monday 29 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature (Spanish)",
+        "code": "0488/31",
+        "duration": "1h 20m",
+        "date": "Monday 06 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0493",
+    "commonSubstring": "Islamiyat",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Islamiyat",
+        "code": "0493/11",
+        "duration": "1h 30m",
+        "date": "Friday 26 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Islamiyat",
+        "code": "0493/21",
+        "duration": "1h 30m",
+        "date": "Thursday 09 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0495",
+    "commonSubstring": "Sociology",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sociology",
+        "code": "0495/11",
+        "duration": "2h",
+        "date": "Thursday 23 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sociology",
+        "code": "0495/21",
+        "duration": "1h 45m",
+        "date": "Tuesday 28 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0499",
+    "commonSubstring": "Sanskrit",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sanskrit",
+        "code": "0499/11",
+        "duration": "1h 30m",
+        "date": "Tuesday 30 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sanskrit",
+        "code": "0499/21",
+        "duration": "1h 30m",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0500",
+    "commonSubstring": "First Language English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language English (Oral Endorsement)",
+        "code": "0500/11",
+        "duration": "2h",
+        "date": "Wednesday 08 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language English (Oral Endorsement)",
+        "code": "0500/21",
+        "duration": "2h",
+        "date": "Monday 13 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0502",
+    "commonSubstring": "First Language Spanish",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Spanish",
+        "code": "0502/11",
+        "duration": "2h",
+        "date": "Wednesday 22 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Spanish",
+        "code": "0502/21",
+        "duration": "2h",
+        "date": "Monday 27 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0504",
+    "commonSubstring": "First Language Portuguese",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Portuguese",
+        "code": "0504/01",
+        "duration": "2h",
+        "date": "Monday 27 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Portuguese",
+        "code": "0504/02",
+        "duration": "2h",
+        "date": "Wednesday 29 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0509",
+    "commonSubstring": "First Language Chinese",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Chinese",
+        "code": "0509/11",
+        "duration": "2h 15m",
+        "date": "Friday 26 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Chinese",
+        "code": "0509/21",
+        "duration": "2h",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0510",
+    "commonSubstring": "English as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking Endorsement)",
+        "code": "0510/11",
+        "duration": "2h",
+        "date": "Wednesday 08 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking Endorsement) (Listening)",
+        "code": "0510/21",
+        "duration": "50m",
+        "date": "Thursday 23 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0511",
+    "commonSubstring": "English as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in Speaking)",
+        "code": "0511/11",
+        "duration": "2h",
+        "date": "Wednesday 08 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in Speaking) (Listening)",
+        "code": "0511/21",
+        "duration": "50m",
+        "date": "Thursday 23 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0520",
+    "commonSubstring": "French",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "French (Listening \u2013 Multiple Choice)",
+        "code": "0520/11",
+        "duration": "50m",
+        "date": "Monday 03 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "French",
+        "code": "0520/21",
+        "duration": "1h",
+        "date": "Wednesday 15 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "French",
+        "code": "0520/41",
+        "duration": "1h",
+        "date": "Friday 26 April 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0523",
+    "commonSubstring": "Chinese as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chinese as a Second Language",
+        "code": "0523/01",
+        "duration": "2h",
+        "date": "Friday 26 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chinese as a Second Language (Listening)",
+        "code": "0523/02",
+        "duration": "45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0525",
+    "commonSubstring": "German",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "German (Listening \u2013 Multiple Choice)",
+        "code": "0525/11",
+        "duration": "50m",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "German",
+        "code": "0525/21",
+        "duration": "1h",
+        "date": "Friday 17 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "German",
+        "code": "0525/41",
+        "duration": "1h",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0530",
+    "commonSubstring": "Spanish",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Spanish (Listening \u2013 Multiple Choice)",
+        "code": "0530/11",
+        "duration": "50m",
+        "date": "Friday 24 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Spanish",
+        "code": "0530/21",
+        "duration": "1h",
+        "date": "Wednesday 22 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Spanish",
+        "code": "0530/41",
+        "duration": "1h",
+        "date": "Friday 24 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0535",
+    "commonSubstring": "Italian",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Italian (Listening \u2013 Multiple Choice)",
+        "code": "0535/11",
+        "duration": "50m",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Italian",
+        "code": "0535/21",
+        "duration": "1h",
+        "date": "Thursday 02 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Italian",
+        "code": "0535/41",
+        "duration": "1h",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0538",
+    "commonSubstring": "Bahasa Indonesia",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Bahasa Indonesia",
+        "code": "0538/01",
+        "duration": "1h 45m",
+        "date": "Friday 26 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Bahasa Indonesia",
+        "code": "0538/02",
+        "duration": "1h 45m",
+        "date": "Monday 27 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0539",
+    "commonSubstring": "Urdu as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Urdu as a Second Language",
+        "code": "0539/01",
+        "duration": "2h",
+        "date": "Friday 17 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Urdu as a Second Language (Listening)",
+        "code": "0539/02",
+        "duration": "45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0544",
+    "commonSubstring": "Arabic",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Arabic (Listening \u2013 Multiple Choice)",
+        "code": "0544/11",
+        "duration": "50m",
+        "date": "Wednesday 22 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Arabic",
+        "code": "0544/21",
+        "duration": "1h",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Arabic",
+        "code": "0544/41",
+        "duration": "1h",
+        "date": "Wednesday 22 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0546",
+    "commonSubstring": "Malay",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Malay (Listening \u2013 Multiple Choice)",
+        "code": "0546/11",
+        "duration": "50m",
+        "date": "Monday 27 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Malay",
+        "code": "0546/21",
+        "duration": "1h",
+        "date": "Monday 06 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Malay",
+        "code": "0546/41",
+        "duration": "1h",
+        "date": "Tuesday 14 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0547",
+    "commonSubstring": "Mandarin Chinese",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mandarin Chinese (Listening \u2013 Multiple Choice)",
+        "code": "0547/11",
+        "duration": "40m",
+        "date": "Tuesday 30 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mandarin Chinese",
+        "code": "0547/21",
+        "duration": "1h 15m",
+        "date": "Friday 24 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mandarin Chinese",
+        "code": "0547/41",
+        "duration": "1h 15m",
+        "date": "Friday 26 April 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0580",
+    "commonSubstring": "Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Without Coursework) (Core)",
+        "code": "0580/11",
+        "duration": "1h",
+        "date": "Friday 03 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Without Coursework) (Extended)",
+        "code": "0580/21",
+        "duration": "1h 30m",
+        "date": "Friday 03 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Without Coursework) (Core)",
+        "code": "0580/31",
+        "duration": "2h",
+        "date": "Tuesday 07 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Without Coursework) (Extended)",
+        "code": "0580/41",
+        "duration": "2h 30m",
+        "date": "Tuesday 07 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0606",
+    "commonSubstring": "Additional Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Additional Mathematics",
+        "code": "0606/11",
+        "duration": "2h",
+        "date": "Thursday 09 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Additional Mathematics",
+        "code": "0606/21",
+        "duration": "2h",
+        "date": "Tuesday 28 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0607",
+    "commonSubstring": "Cambridge International Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core)",
+        "code": "0607/11",
+        "duration": "45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended)",
+        "code": "0607/21",
+        "duration": "45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core)",
+        "code": "0607/31",
+        "duration": "1h 45m",
+        "date": "Monday 06 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended)",
+        "code": "0607/41",
+        "duration": "2h 15m",
+        "date": "Monday 06 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core)",
+        "code": "0607/51",
+        "duration": "1h 10m",
+        "date": "Tuesday 14 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended)",
+        "code": "0607/61",
+        "duration": "1h 40m",
+        "date": "Tuesday 14 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0610",
+    "commonSubstring": "Biology",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Multiple Choice \u2013 Core)",
+        "code": "0610/11",
+        "duration": "45m",
+        "date": "Thursday 13 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Multiple Choice \u2013 Extended)",
+        "code": "0610/21",
+        "duration": "45m",
+        "date": "Thursday 13 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Core)",
+        "code": "0610/31",
+        "duration": "1h 15m",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Extended)",
+        "code": "0610/41",
+        "duration": "1h 15m",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Practical)",
+        "code": "0610/51",
+        "duration": "1h 15m",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Alternative to Practical)",
+        "code": "0610/61",
+        "duration": "1h",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0620",
+    "commonSubstring": "Chemistry",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Multiple Choice \u2013 Core)",
+        "code": "0620/11",
+        "duration": "45m",
+        "date": "Tuesday 11 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Multiple Choice \u2013 Extended)",
+        "code": "0620/21",
+        "duration": "45m",
+        "date": "Tuesday 11 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Core)",
+        "code": "0620/31",
+        "duration": "1h 15m",
+        "date": "Monday 29 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Extended)",
+        "code": "0620/41",
+        "duration": "1h 15m",
+        "date": "Monday 29 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Practical)",
+        "code": "0620/51",
+        "duration": "1h 15m",
+        "date": "Tuesday 14 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Alternative to Practical)",
+        "code": "0620/61",
+        "duration": "1h",
+        "date": "Tuesday 14 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0625",
+    "commonSubstring": "Physics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Multiple Choice \u2013 Core)",
+        "code": "0625/11",
+        "duration": "45m",
+        "date": "Wednesday 05 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Multiple Choice \u2013 Extended)",
+        "code": "0625/21",
+        "duration": "45m",
+        "date": "Wednesday 05 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Core)",
+        "code": "0625/31",
+        "duration": "1h 15m",
+        "date": "Friday 10 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Extended)",
+        "code": "0625/41",
+        "duration": "1h 15m",
+        "date": "Friday 10 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Practical)",
+        "code": "0625/51",
+        "duration": "1h 15m",
+        "date": "Thursday 16 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Alternative to Practical)",
+        "code": "0625/61",
+        "duration": "1h",
+        "date": "Thursday 16 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0648",
+    "commonSubstring": "Food",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Food & Nutrition",
+        "code": "0648/11",
+        "duration": "2h",
+        "date": "Thursday 06 June 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "0653",
+    "commonSubstring": "Combined Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Multiple Choice \u2013 Core)",
+        "code": "0653/11",
+        "duration": "45m",
+        "date": "Wednesday 05 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Multiple Choice \u2013 Extended)",
+        "code": "0653/21",
+        "duration": "45m",
+        "date": "Wednesday 05 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Core)",
+        "code": "0653/31",
+        "duration": "1h 15m",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Extended)",
+        "code": "0653/41",
+        "duration": "1h 15m",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Practical)",
+        "code": "0653/51",
+        "duration": "1h 15m",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Alternative to Practical)",
+        "code": "0653/61",
+        "duration": "1h",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0654",
+    "commonSubstring": "Co",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Core)",
+        "code": "0654/11",
+        "duration": "45m",
+        "date": "Wednesday 05 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Extended)",
+        "code": "0654/21",
+        "duration": "45m",
+        "date": "Wednesday 05 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Core)",
+        "code": "0654/31",
+        "duration": "2h",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Extended)",
+        "code": "0654/41",
+        "duration": "2h",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Practical)",
+        "code": "0654/51",
+        "duration": "2h",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Alternative to Practical)",
+        "code": "0654/61",
+        "duration": "1h 30m",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0680",
+    "commonSubstring": "Environmental Management",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Environmental Management",
+        "code": "0680/11",
+        "duration": "1h 45m",
+        "date": "Thursday 23 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Environmental Management",
+        "code": "0680/21",
+        "duration": "1h 45m",
+        "date": "Monday 03 June 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "0697",
+    "commonSubstring": "Marine Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Marine Science",
+        "code": "0697/11",
+        "duration": "1h 45m",
+        "date": "Thursday 09 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Marine Science",
+        "code": "0697/21",
+        "duration": "1h 45m",
+        "date": "Tuesday 14 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "8021",
+    "commonSubstring": "English General Paper",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "English General Paper",
+        "code": "8021/11",
+        "duration": "1h 15m",
+        "date": "Thursday 25 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "English General Paper",
+        "code": "8021/21",
+        "duration": "1h 45m",
+        "date": "Wednesday 01 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "8022",
+    "commonSubstring": "Spanish Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Spanish Language (Listening \u2013 Multiple Choice)",
+        "code": "8022/11",
+        "duration": "1h",
+        "date": "Monday 13 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Spanish Language (Multiple Choice)",
+        "code": "8022/21",
+        "duration": "1h 30m",
+        "date": "Wednesday 22 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Spanish Language",
+        "code": "8022/31",
+        "duration": "1h 30m",
+        "date": "Monday 06 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "8291",
+    "commonSubstring": "Environmental Management",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Environmental Management",
+        "code": "8291/11",
+        "duration": "1h 45m",
+        "date": "Friday 26 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Environmental Management",
+        "code": "8291/21",
+        "duration": "1h 45m",
+        "date": "Wednesday 01 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "8386",
+    "commonSubstring": "Sport",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Sport & Physical Education",
+        "code": "8386/11",
+        "duration": "1h 45m",
+        "date": "Friday 24 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "8682",
+    "commonSubstring": "French Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "French Language",
+        "code": "8682/21",
+        "duration": "1h 45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "French Language",
+        "code": "8682/31",
+        "duration": "1h 30m",
+        "date": "Tuesday 28 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "8684",
+    "commonSubstring": "Portuguese Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Portuguese Language",
+        "code": "8684/02",
+        "duration": "1h 45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Portuguese Language",
+        "code": "8684/03",
+        "duration": "1h 30m",
+        "date": "Monday 20 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "8686",
+    "commonSubstring": "Urdu Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Urdu Language",
+        "code": "8686/02",
+        "duration": "1h 45m",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Urdu Language",
+        "code": "8686/03",
+        "duration": "1h 30m",
+        "date": "Wednesday 22 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "8695",
+    "commonSubstring": "Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Language & Literature in English",
+        "code": "8695/11",
+        "duration": "2h",
+        "date": "Monday 06 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Language & Literature in English",
+        "code": "8695/21",
+        "duration": "2h",
+        "date": "Wednesday 01 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9084",
+    "commonSubstring": "Law",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Law",
+        "code": "9084/11",
+        "duration": "1h 30m",
+        "date": "Tuesday 28 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Law",
+        "code": "9084/21",
+        "duration": "1h 30m",
+        "date": "Thursday 30 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Law",
+        "code": "9084/31",
+        "duration": "1h 30m",
+        "date": "Monday 03 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Law",
+        "code": "9084/41",
+        "duration": "1h 30m",
+        "date": "Wednesday 05 June 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9093",
+    "commonSubstring": "English Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "English Language",
+        "code": "9093/11",
+        "duration": "2h 15m",
+        "date": "Friday 03 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "English Language",
+        "code": "9093/21",
+        "duration": "2h",
+        "date": "Monday 06 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "English Language",
+        "code": "9093/31",
+        "duration": "2h 15m",
+        "date": "Monday 20 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "English Language",
+        "code": "9093/41",
+        "duration": "2h 15m",
+        "date": "Wednesday 22 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9231",
+    "commonSubstring": "Further Mathematics",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Further Mathematics",
+        "code": "9231/11",
+        "duration": "2h",
+        "date": "Monday 06 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Further Mathematics",
+        "code": "9231/21",
+        "duration": "2h",
+        "date": "Monday 27 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Further Mathematics",
+        "code": "9231/31",
+        "duration": "1h 30m",
+        "date": "Friday 24 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Further Mathematics",
+        "code": "9231/41",
+        "duration": "1h 30m",
+        "date": "Wednesday 29 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9239",
+    "commonSubstring": "Global Perspectives",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Global Perspectives & Research",
+        "code": "9239/11",
+        "duration": "1h 30m",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9395",
+    "commonSubstring": "Travel",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Travel & Tourism",
+        "code": "9395/11",
+        "duration": "2h",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Travel & Tourism",
+        "code": "9395/31",
+        "duration": "1h 30m",
+        "date": "Tuesday 21 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Travel & Tourism",
+        "code": "9395/41",
+        "duration": "1h 30m",
+        "date": "Thursday 23 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9482",
+    "commonSubstring": "Drama",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Drama",
+        "code": "9482/11",
+        "duration": "2h",
+        "date": "Friday 24 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9483",
+    "commonSubstring": "Music",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Music (Listening)",
+        "code": "9483/11",
+        "duration": "2h",
+        "date": "Monday 20 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9489",
+    "commonSubstring": "History",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "History",
+        "code": "9489/11",
+        "duration": "1h 15m",
+        "date": "Friday 03 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "History",
+        "code": "9489/21",
+        "duration": "1h 45m",
+        "date": "Friday 10 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "History",
+        "code": "9489/31",
+        "duration": "1h 15m",
+        "date": "Tuesday 14 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "History",
+        "code": "9489/41",
+        "duration": "1h 45m",
+        "date": "Friday 17 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9607",
+    "commonSubstring": "Media Studies",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Media Studies",
+        "code": "9607/21",
+        "duration": "2h",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Media Studies",
+        "code": "9607/41",
+        "duration": "2h",
+        "date": "Wednesday 22 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9609",
+    "commonSubstring": "Business",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Business",
+        "code": "9609/11",
+        "duration": "1h 15m",
+        "date": "Friday 03 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Business",
+        "code": "9609/21",
+        "duration": "1h 30m",
+        "date": "Friday 10 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Business",
+        "code": "9609/31",
+        "duration": "1h 45m",
+        "date": "Thursday 16 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Business",
+        "code": "9609/41",
+        "duration": "1h 15m",
+        "date": "Monday 20 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9618",
+    "commonSubstring": "Computer Science",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Computer Science",
+        "code": "9618/11",
+        "duration": "1h 30m",
+        "date": "Wednesday 08 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Computer Science",
+        "code": "9618/21",
+        "duration": "2h",
+        "date": "Friday 17 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Computer Science (Advanced)",
+        "code": "9618/31",
+        "duration": "1h 30m",
+        "date": "Tuesday 21 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Computer Science (Practical)",
+        "code": "9618/41",
+        "duration": "2h 30m",
+        "date": "Thursday 23 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9626",
+    "commonSubstring": "Information Technology",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Information Technology",
+        "code": "9626/11",
+        "duration": "1h 45m",
+        "date": "Wednesday 08 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Information Technology (Advanced)",
+        "code": "9626/31",
+        "duration": "1h 45m",
+        "date": "Tuesday 21 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9676",
+    "commonSubstring": "Urdu",
+    "group": [
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/02",
+        "duration": "1h 45m",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/03",
+        "duration": "1h 30m",
+        "date": "Wednesday 22 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/04",
+        "duration": "2h 30m",
+        "date": "Monday 06 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/05",
+        "duration": "45m",
+        "date": "Wednesday 05 June 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9693",
+    "commonSubstring": "Marine Science",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Marine Science",
+        "code": "9693/11",
+        "duration": "1h 45m",
+        "date": "Friday 26 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Marine Science",
+        "code": "9693/21",
+        "duration": "1h 45m",
+        "date": "Wednesday 01 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Marine Science",
+        "code": "9693/31",
+        "duration": "1h 45m",
+        "date": "Monday 06 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Marine Science",
+        "code": "9693/41",
+        "duration": "1h 45m",
+        "date": "Friday 24 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9694",
+    "commonSubstring": "Thinking Skills",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Thinking Skills",
+        "code": "9694/11",
+        "duration": "1h 30m",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Thinking Skills",
+        "code": "9694/21",
+        "duration": "1h 45m",
+        "date": "Wednesday 08 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Thinking Skills",
+        "code": "9694/31",
+        "duration": "2h",
+        "date": "Tuesday 14 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Thinking Skills",
+        "code": "9694/41",
+        "duration": "1h 45m",
+        "date": "Thursday 16 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9695",
+    "commonSubstring": "Literature in English",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Literature in English",
+        "code": "9695/11",
+        "duration": "2h",
+        "date": "Wednesday 01 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Literature in English",
+        "code": "9695/21",
+        "duration": "2h",
+        "date": "Monday 13 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Literature in English",
+        "code": "9695/31",
+        "duration": "2h",
+        "date": "Tuesday 21 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Literature in English",
+        "code": "9695/41",
+        "duration": "2h",
+        "date": "Thursday 23 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9696",
+    "commonSubstring": "Geography",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Geography (Core)",
+        "code": "9696/11",
+        "duration": "1h 30m",
+        "date": "Wednesday 08 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Geography (Core)",
+        "code": "9696/21",
+        "duration": "1h 30m",
+        "date": "Friday 17 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Geography (Advanced)",
+        "code": "9696/31",
+        "duration": "1h 30m",
+        "date": "Monday 20 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Geography (Advanced)",
+        "code": "9696/41",
+        "duration": "1h 30m",
+        "date": "Friday 24 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9699",
+    "commonSubstring": "Sociology",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Sociology",
+        "code": "9699/11",
+        "duration": "1h 30m",
+        "date": "Thursday 09 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Sociology",
+        "code": "9699/21",
+        "duration": "1h 30m",
+        "date": "Friday 17 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Sociology",
+        "code": "9699/31",
+        "duration": "1h 15m",
+        "date": "Tuesday 28 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Sociology",
+        "code": "9699/41",
+        "duration": "1h 45m",
+        "date": "Thursday 30 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9700",
+    "commonSubstring": "Biology",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Biology (Multiple Choice)",
+        "code": "9700/11",
+        "duration": "1h 15m",
+        "date": "Tuesday 11 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Biology",
+        "code": "9700/21",
+        "duration": "1h 15m",
+        "date": "Tuesday 14 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Biology (Practical \u2013 Advanced)",
+        "code": "9700/31",
+        "duration": "2h",
+        "date": "Thursday 09 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Biology (Practical \u2013 Advanced)",
+        "code": "9700/32",
+        "duration": "2h",
+        "date": "Tuesday 28 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Biology",
+        "code": "9700/41",
+        "duration": "2h",
+        "date": "Tuesday 07 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Biology",
+        "code": "9700/51",
+        "duration": "1h 15m",
+        "date": "Tuesday 14 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9701",
+    "commonSubstring": "Chemistry",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Chemistry (Multiple Choice)",
+        "code": "9701/11",
+        "duration": "1h 15m",
+        "date": "Tuesday 04 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Chemistry",
+        "code": "9701/21",
+        "duration": "1h 15m",
+        "date": "Wednesday 15 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Chemistry (Practical \u2013 Advanced)",
+        "code": "9701/31",
+        "duration": "2h",
+        "date": "Thursday 02 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Chemistry (Practical \u2013 Advanced)",
+        "code": "9701/32",
+        "duration": "2h",
+        "date": "Thursday 30 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Chemistry",
+        "code": "9701/41",
+        "duration": "2h",
+        "date": "Wednesday 08 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Chemistry",
+        "code": "9701/51",
+        "duration": "1h 15m",
+        "date": "Wednesday 15 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9702",
+    "commonSubstring": "Physics",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Physics (Multiple Choice)",
+        "code": "9702/11",
+        "duration": "1h 15m",
+        "date": "Thursday 06 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Physics",
+        "code": "9702/21",
+        "duration": "1h 15m",
+        "date": "Thursday 16 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Physics (Practical \u2013 Advanced)",
+        "code": "9702/31",
+        "duration": "2h",
+        "date": "Tuesday 30 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Physics (Practical \u2013 Advanced)",
+        "code": "9702/32",
+        "duration": "2h",
+        "date": "Thursday 23 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Physics",
+        "code": "9702/41",
+        "duration": "2h",
+        "date": "Monday 13 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Physics",
+        "code": "9702/51",
+        "duration": "1h 15m",
+        "date": "Thursday 16 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9705",
+    "commonSubstring": "Design",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Design & Technology",
+        "code": "9705/11",
+        "duration": "3h",
+        "date": "Monday 29 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Design & Technology",
+        "code": "9705/31",
+        "duration": "3h",
+        "date": "Thursday 09 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9706",
+    "commonSubstring": "Accounting",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Accounting (Multiple Choice)",
+        "code": "9706/11",
+        "duration": "1h",
+        "date": "Tuesday 04 June 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Accounting",
+        "code": "9706/21",
+        "duration": "1h 45m",
+        "date": "Thursday 09 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Accounting",
+        "code": "9706/31",
+        "duration": "1h 30m",
+        "date": "Tuesday 14 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Accounting",
+        "code": "9706/41",
+        "duration": "1h",
+        "date": "Tuesday 21 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9708",
+    "commonSubstring": "Economics",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Economics (Multiple Choice)",
+        "code": "9708/11",
+        "duration": "1h",
+        "date": "Friday 07 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Economics",
+        "code": "9708/21",
+        "duration": "2h",
+        "date": "Friday 10 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Economics (Multiple Choice)",
+        "code": "9708/31",
+        "duration": "1h 15m",
+        "date": "Thursday 13 June 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Economics",
+        "code": "9708/41",
+        "duration": "2h",
+        "date": "Friday 17 May 2024",
+        "session": "AM"
+      }
+    ]
+  },
+  {
+    "code": "9709",
+    "commonSubstring": "Mathematics",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Mathematics (Pure Mathematics 1)",
+        "code": "9709/11",
+        "duration": "1h 50m",
+        "date": "Thursday 02 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Mathematics (Pure Mathematics 2)",
+        "code": "9709/21",
+        "duration": "1h 15m",
+        "date": "Tuesday 07 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Mathematics (Pure Mathematics 3)",
+        "code": "9709/31",
+        "duration": "1h 50m",
+        "date": "Wednesday 15 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Mathematics (Mechanics)",
+        "code": "9709/41",
+        "duration": "1h 15m",
+        "date": "Tuesday 07 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Mathematics (Probability & Statistics 1)",
+        "code": "9709/51",
+        "duration": "1h 15m",
+        "date": "Monday 13 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Mathematics (Probability & Statistics 2)",
+        "code": "9709/61",
+        "duration": "1h 15m",
+        "date": "Tuesday 07 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9716",
+    "commonSubstring": "French",
+    "group": [
+      {
+        "type": "Cambridge International A Level",
+        "subject": "French",
+        "code": "9716/21",
+        "duration": "1h 45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "French",
+        "code": "9716/31",
+        "duration": "1h 30m",
+        "date": "Tuesday 28 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "French",
+        "code": "9716/41",
+        "duration": "2h 30m",
+        "date": "Friday 31 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9717",
+    "commonSubstring": "German",
+    "group": [
+      {
+        "type": "Cambridge International A Level",
+        "subject": "German",
+        "code": "9717/02",
+        "duration": "1h 45m",
+        "date": "Monday 27 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "German",
+        "code": "9717/03",
+        "duration": "1h 30m",
+        "date": "Wednesday 29 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "German",
+        "code": "9717/04",
+        "duration": "2h 30m",
+        "date": "Monday 03 June 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9718",
+    "commonSubstring": "Portuguese",
+    "group": [
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Portuguese",
+        "code": "9718/02",
+        "duration": "1h 45m",
+        "date": "Tuesday 30 April 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Portuguese",
+        "code": "9718/03",
+        "duration": "1h 30m",
+        "date": "Monday 20 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Portuguese",
+        "code": "9718/04",
+        "duration": "2h 30m",
+        "date": "Monday 03 June 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9844",
+    "commonSubstring": "Spanish Language",
+    "group": [
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Spanish Language & Literature (Multiple Choice)",
+        "code": "9844/11",
+        "duration": "1h 30m",
+        "date": "Wednesday 22 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Spanish Language & Literature",
+        "code": "9844/21",
+        "duration": "2h",
+        "date": "Monday 06 May 2024",
+        "session": "PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Spanish Language & Literature",
+        "code": "9844/31",
+        "duration": "2h",
+        "date": "Wednesday 15 May 2024",
+        "session": "PM"
+      }
+    ]
+  },
+  {
+    "code": "9990",
+    "commonSubstring": "Psychology",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Psychology",
+        "code": "9990/11",
+        "duration": "1h 30m",
+        "date": "Thursday 25 April 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Psychology",
+        "code": "9990/21",
+        "duration": "1h 30m",
+        "date": "Thursday 09 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Psychology",
+        "code": "9990/31",
+        "duration": "1h 30m",
+        "date": "Thursday 16 May 2024",
+        "session": "AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Psychology",
+        "code": "9990/41",
+        "duration": "1h 30m",
+        "date": "Tuesday 21 May 2024",
+        "session": "AM"
+      }
+    ]
+  }
+]
