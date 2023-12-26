@@ -1,10 +1,9 @@
 import { SubjectReverseMap, SubjectTextMap } from "@/data/zone_map";
-import { Dialog, Tab, Transition } from "@headlessui/react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/router";
 import { Fragment } from "react";
 import { IoMdArrowRoundBack } from "react-icons/io";
-import { useSessionStorage } from "usehooks-ts";
+import { useLocalStorage } from "usehooks-ts";
 import AddNewSubjectModal from "../Modals/AddNewSubjectModal";
 import EditSubjectModal from "../Modals/EditSubjectModal";
 import SearchInputForm from "../SearchInputForm";
@@ -35,7 +34,7 @@ const SubjectSelectionScreen = ({
   setSearchInput,
   data,
 }) => {
-  const [timetableData, setTimetableData] = useSessionStorage("timetable", {});
+  const [timetableData, setTimetableData] = useLocalStorage("timetable", {});
 
   const router = useRouter();
 

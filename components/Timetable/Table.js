@@ -214,7 +214,7 @@ const Table = ({
                     className="flex flex-col items-center text-lg font-medium leading-6"
                   >
                     <span className="px-4 text-center font-bold">
-                      {subject.subject} - {subject.code}
+                      {subject?.subject} - {subject?.code}
                     </span>
                   </Dialog.Title>
                   <div className="mt-2">
@@ -223,27 +223,27 @@ const Table = ({
                       <div className="flex flex-col space-y-2">
                         <div className="flex flex-col space-x-2 md:flex-row">
                           <div className="font-bold">Subject</div>
-                          <div>{subject.subject}</div>
+                          <div>{subject?.subject}</div>
                         </div>
                         <div className="flex flex-col space-x-2 md:flex-row">
                           <div className="font-bold">Type</div>
-                          <div>{subject.type}</div>
+                          <div>{subject?.type}</div>
                         </div>
                         <div className="flex flex-col space-x-2 md:flex-row">
                           <div className="font-bold">Code</div>
-                          <div>{subject.code}</div>
+                          <div>{subject?.code}</div>
                         </div>
                         <div className="flex flex-col space-x-2 md:flex-row">
                           <div className="font-bold">Duration</div>
-                          <div>{subject.duration}</div>
+                          <div>{subject?.duration}</div>
                         </div>
                         <div className="flex flex-col space-x-2 md:flex-row">
                           <div className="font-bold">Date</div>
-                          <div>{subject.date}</div>
+                          <div>{subject?.date}</div>
                         </div>
                         <div className="flex flex-col space-x-2 md:flex-row">
                           <div className="font-bold">Session</div>
-                          <div>{subject.session}</div>
+                          <div>{subject?.session}</div>
                         </div>
                       </div>
                     </div>

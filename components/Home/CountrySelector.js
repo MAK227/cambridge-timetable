@@ -2,14 +2,14 @@ import CountriesToZoneMap from "@/data/countries_to_zone_map.json";
 import { Combobox, Transition } from "@headlessui/react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/router";
-import React, { Fragment, useState } from "react";
+import { Fragment, useState } from "react";
 import { AiOutlineCheck } from "react-icons/ai";
 import { HiChevronUpDown } from "react-icons/hi2";
-import { useSessionStorage } from "usehooks-ts";
+import { useLocalStorage } from "usehooks-ts";
 
 const CountrySelector = ({ selectedCountry, setSelectedCountry }) => {
   const [query, setQuery] = useState("");
-  const [timetableDate, setTimetableData] = useSessionStorage("timetable", {});
+  const [timetableDate, setTimetableData] = useLocalStorage("timetable", {});
 
   const filteredCountries =
     query === ""
@@ -17,7 +17,19 @@ const CountrySelector = ({ selectedCountry, setSelectedCountry }) => {
       : CountriesToZoneMap.filter((country) => {
           return country.country.toLowerCase().includes(query.toLowerCase());
         }).sort((a, b) => {
-          return a.country.length - b.country.length;
+          if (a.country.toLowerCase().startsWith(query.toLowerCase())) {
+            if (b.country.toLowerCase().startsWith(query.toLowerCase())) {
+              return a.country.length - b.country.length;
+            } else {
+              return -1;
+            }
+          } else {
+            if (b.country.toLowerCase().startsWith(query.toLowerCase())) {
+              return 1;
+            } else {
+              return a.country.length - b.country.length;
+            }
+          }
         });
 
   const router = useRouter();

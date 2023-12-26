@@ -1,23 +1,31 @@
 import CountrySelector from "@/components/Home/CountrySelector";
-import { useSession, useSupabaseClient } from "@supabase/auth-helpers-react";
 import { motion } from "framer-motion";
 import Head from "next/head";
 import Link from "next/link";
-import { useState } from "react";
+import { useRouter } from "next/router";
+import { useEffect, useState } from "react";
+import { useLocalStorage } from "usehooks-ts";
 
 const SearchPage = () => {
   const [selectedCountry, setSelectedCountry] = useState({});
+  const [timetableData, _] = useLocalStorage("timetable", {});
 
-  const session = useSession();
-  const supabase = useSupabaseClient();
+  const router = useRouter();
+
+  useEffect(() => {
+    // redirect to the timetable page if the user already has a timetable
+    if (timetableData.selectedSubs !== undefined) {
+      router.push("/timetable");
+    }
+  }, [timetableData]);
 
   return (
     <>
       <Head>
-        <title>Timetable</title>
-        <meta name="description" content="Knowfly Timetable" />
+        <title>CAIE Timetable</title>
+        <meta name="description" content="CAIE Timetable" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/logo_light.png" />
+        <link rel="icon" href="favicon-16x16.png" />
       </Head>
       <div className="flex w-screen flex-col items-center justify-center py-8 text-center md:min-h-screen lg:text-5xl">
         <div className="flex w-full flex-row items-center justify-between px-4 md:absolute md:top-8 md:px-24">

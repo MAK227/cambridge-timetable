@@ -1,29 +1,26 @@
 import Table from "@/components/Timetable/Table";
 import { useRouter } from "next/router";
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { CgUndo } from "react-icons/cg";
-import { useSessionStorage } from "usehooks-ts";
+import { HiSave } from "react-icons/hi";
+import { useLocalStorage } from "usehooks-ts";
 
 const TimetablePage = () => {
   const router = useRouter();
-  const [timetableData, _] = useSessionStorage("timetable", {});
-  const [isLoading, setIsLoading] = useState(false);
+  const [timetableData, setTimetableData] = useLocalStorage("timetable", {});
   const [selectedSubjects, setSelectedSubjects] = React.useState(null);
   const [removedSubjects, setRemovedSubjects] = React.useState([]);
 
   useEffect(() => {
-    setSelectedSubjects(timetableData.selectedSubs.map((x) => x.group).flat());
+    if (timetableData.selectedSubs !== undefined) {
+      setSelectedSubjects(
+        timetableData.selectedSubs.map((x) => x.group).flat()
+      );
+    }
   }, [timetableData]);
 
   return (
     <div className="flex min-h-screen w-screen flex-col items-center justify-center gap-4 py-16">
-      {/* loading overlay */}
-      {isLoading && (
-        <div className="fixed top-0 left-0 z-50 flex h-screen w-screen items-center justify-center bg-black bg-opacity-50">
-          <div className="h-32 w-32 animate-spin rounded-full border-b-4 border-white" />
-        </div>
-      )}
-
       <div className="flex flex-col items-center justify-center gap-4">
         <h1 className="text-3xl font-bold text-white">My Timetable</h1>
         <div className="flex-1">
@@ -36,7 +33,25 @@ const TimetablePage = () => {
             />
           )}
           {removedSubjects.length > 0 && (
-            <div className="fixed bottom-4 right-4">
+            <div className="fixed bottom-4 right-4 flex gap-4">
+              <div
+                className="flex cursor-pointer items-center gap-1 rounded-full bg-primary p-2 text-xl text-dark"
+                onClick={() => {
+                  setTimetableData({
+                    ...timetableData,
+                    selectedSubs: [
+                      {
+                        group: selectedSubjects,
+                        removed: removedSubjects,
+                      },
+                    ],
+                  });
+                  setRemovedSubjects([]);
+                }}
+              >
+                <HiSave />
+                <div className="text-sm md:text-base">Save</div>
+              </div>
               <div
                 className="flex cursor-pointer items-center gap-1 rounded-full bg-primary p-2 text-xl text-dark"
                 onClick={() => {
@@ -57,15 +72,15 @@ const TimetablePage = () => {
             </div>
           )}
         </div>
-        {!isLoading && (
-          <button
-            className="relative rounded-full bg-primary px-6 py-1 font-semibold text-dark"
-            // onClick={saveTimetable}
-            onClick={() => router.push("/")}
-          >
-            Restart
-          </button>
-        )}
+        <button
+          className="relative rounded-full bg-primary px-6 py-1 font-semibold text-dark"
+          onClick={() => {
+            router.push("/");
+            setTimetableData({});
+          }}
+        >
+          Restart
+        </button>
       </div>
     </div>
   );
