@@ -19,7 +19,8 @@
         "date": "Monday 06 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0408",
@@ -41,7 +42,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0410",
@@ -55,7 +57,8 @@
         "date": "Thursday 23 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0411",
@@ -69,7 +72,8 @@
         "date": "Tuesday 04 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0413",
@@ -83,7 +87,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0417",
@@ -97,7 +102,8 @@
         "date": "Wednesday 08 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0445",
@@ -135,7 +141,8 @@
         "date": "Tuesday 04 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0448",
@@ -157,7 +164,8 @@
         "date": "Monday 06 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0450",
@@ -179,7 +187,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0452",
@@ -201,7 +210,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0454",
@@ -215,7 +225,8 @@
         "date": "Wednesday 05 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0455",
@@ -237,7 +248,8 @@
         "date": "Friday 24 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0457",
@@ -251,7 +263,8 @@
         "date": "Wednesday 08 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0460",
@@ -281,7 +294,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0470",
@@ -311,7 +325,8 @@
         "date": "Monday 20 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0471",
@@ -333,7 +348,8 @@
         "date": "Thursday 23 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0472",
@@ -363,7 +379,8 @@
         "date": "Wednesday 08 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0475",
@@ -401,7 +418,8 @@
         "date": "Wednesday 15 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0478",
@@ -423,7 +441,8 @@
         "date": "Monday 20 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0480",
@@ -445,7 +464,8 @@
         "date": "Friday 17 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0488",
@@ -467,7 +487,8 @@
         "date": "Monday 06 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0493",
@@ -489,7 +510,8 @@
         "date": "Thursday 09 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0495",
@@ -511,7 +533,8 @@
         "date": "Tuesday 28 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0499",
@@ -533,7 +556,8 @@
         "date": "Thursday 02 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0500",
@@ -555,7 +579,8 @@
         "date": "Monday 13 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0501",
@@ -577,7 +602,8 @@
         "date": "Thursday 16 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0502",
@@ -599,7 +625,8 @@
         "date": "Monday 27 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0504",
@@ -621,7 +648,8 @@
         "date": "Wednesday 29 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0505",
@@ -643,7 +671,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0508",
@@ -665,7 +694,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0509",
@@ -687,7 +717,8 @@
         "date": "Monday 29 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0510",
@@ -709,7 +740,8 @@
         "date": "Thursday 23 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0511",
@@ -731,7 +763,8 @@
         "date": "Thursday 23 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0513",
@@ -753,7 +786,8 @@
         "date": "Friday 17 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0518",
@@ -775,7 +809,8 @@
         "date": "Friday 17 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0520",
@@ -805,7 +840,8 @@
         "date": "Friday 26 April 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0523",
@@ -827,7 +863,8 @@
         "date": "Tuesday 30 April 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0525",
@@ -857,7 +894,8 @@
         "date": "Tuesday 30 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0530",
@@ -887,7 +925,8 @@
         "date": "Friday 24 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0535",
@@ -917,7 +956,8 @@
         "date": "Monday 29 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0538",
@@ -939,7 +979,8 @@
         "date": "Monday 27 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0539",
@@ -961,7 +1002,8 @@
         "date": "Tuesday 30 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0544",
@@ -991,7 +1033,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0546",
@@ -1021,7 +1064,8 @@
         "date": "Wednesday 15 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0547",
@@ -1051,7 +1095,8 @@
         "date": "Friday 26 April 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0580",
@@ -1089,7 +1134,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0606",
@@ -1111,7 +1157,8 @@
         "date": "Tuesday 28 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0607",
@@ -1165,7 +1212,8 @@
         "date": "Tuesday 14 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0610",
@@ -1219,7 +1267,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0620",
@@ -1273,7 +1322,8 @@
         "date": "Tuesday 14 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0625",
@@ -1327,7 +1377,8 @@
         "date": "Thursday 16 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "0648",
@@ -1341,7 +1392,8 @@
         "date": "Thursday 06 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0653",
@@ -1395,7 +1447,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0654",
@@ -1449,7 +1502,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0680",
@@ -1471,7 +1525,8 @@
         "date": "Monday 03 June 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0697",
@@ -1493,7 +1548,8 @@
         "date": "Tuesday 14 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0772",
@@ -1523,7 +1579,8 @@
         "date": "Wednesday 08 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0970",
@@ -1577,7 +1634,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0971",
@@ -1631,7 +1689,8 @@
         "date": "Tuesday 14 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0972",
@@ -1685,7 +1744,8 @@
         "date": "Thursday 16 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0973",
@@ -1739,7 +1799,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0976",
@@ -1769,7 +1830,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0977",
@@ -1799,7 +1861,8 @@
         "date": "Monday 20 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0978",
@@ -1813,7 +1876,8 @@
         "date": "Thursday 23 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0979",
@@ -1851,7 +1915,8 @@
         "date": "Tuesday 04 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0980",
@@ -1889,7 +1954,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0983",
@@ -1903,7 +1969,8 @@
         "date": "Wednesday 08 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0984",
@@ -1925,7 +1992,8 @@
         "date": "Monday 20 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0985",
@@ -1947,7 +2015,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0986",
@@ -1969,7 +2038,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0987",
@@ -1991,7 +2061,8 @@
         "date": "Friday 24 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0990",
@@ -2013,7 +2084,8 @@
         "date": "Monday 13 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0991",
@@ -2035,7 +2107,8 @@
         "date": "Thursday 23 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0992",
@@ -2073,7 +2146,8 @@
         "date": "Wednesday 15 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0993",
@@ -2095,7 +2169,8 @@
         "date": "Thursday 23 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0994",
@@ -2109,7 +2184,8 @@
         "date": "Tuesday 04 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "0995",
@@ -2123,7 +2199,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "1123",
@@ -2145,7 +2222,8 @@
         "date": "Monday 29 April 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2010",
@@ -2167,7 +2245,8 @@
         "date": "Wednesday 15 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2035",
@@ -2189,7 +2268,8 @@
         "date": "Friday 31 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2055",
@@ -2211,7 +2291,8 @@
         "date": "Monday 03 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2058",
@@ -2233,7 +2314,8 @@
         "date": "Thursday 09 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2059",
@@ -2255,7 +2337,8 @@
         "date": "Monday 06 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2068",
@@ -2277,7 +2360,8 @@
         "date": "Monday 06 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2147",
@@ -2299,7 +2383,8 @@
         "date": "Tuesday 14 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2210",
@@ -2321,7 +2406,8 @@
         "date": "Monday 20 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2217",
@@ -2351,7 +2437,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2251",
@@ -2373,7 +2460,8 @@
         "date": "Tuesday 28 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "2281",
@@ -2395,7 +2483,8 @@
         "date": "Friday 24 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "3180",
@@ -2417,7 +2506,8 @@
         "date": "Thursday 09 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "3204",
@@ -2439,7 +2529,8 @@
         "date": "Tuesday 30 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "3205",
@@ -2461,7 +2552,8 @@
         "date": "Tuesday 30 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "3226",
@@ -2483,7 +2575,8 @@
         "date": "Monday 29 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "3247",
@@ -2505,7 +2598,8 @@
         "date": "Thursday 02 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "3248",
@@ -2527,7 +2621,8 @@
         "date": "Thursday 02 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "4024",
@@ -2549,7 +2644,8 @@
         "date": "Monday 06 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "4037",
@@ -2571,7 +2667,8 @@
         "date": "Tuesday 28 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "5054",
@@ -2609,7 +2706,8 @@
         "date": "Thursday 16 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "5070",
@@ -2647,7 +2745,8 @@
         "date": "Tuesday 14 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "5090",
@@ -2685,7 +2784,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "5129",
@@ -2715,7 +2815,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "6065",
@@ -2729,7 +2830,8 @@
         "date": "Thursday 06 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "6130",
@@ -2743,7 +2845,8 @@
         "date": "Friday 03 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "7094",
@@ -2765,7 +2868,8 @@
         "date": "Wednesday 29 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "7100",
@@ -2787,7 +2891,8 @@
         "date": "Thursday 30 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "7115",
@@ -2809,7 +2914,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "7156",
@@ -2839,7 +2945,8 @@
         "date": "Friday 26 April 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "7159",
@@ -2869,7 +2976,8 @@
         "date": "Tuesday 30 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "7160",
@@ -2899,7 +3007,8 @@
         "date": "Friday 24 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "7164",
@@ -2929,7 +3038,8 @@
         "date": "Monday 29 April 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "7184",
@@ -2951,7 +3061,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge IGCSE"
   },
   {
     "code": "7707",
@@ -2973,7 +3084,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge O Level"
   },
   {
     "code": "8021",
@@ -2995,7 +3107,8 @@
         "date": "Wednesday 01 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8022",
@@ -3025,7 +3138,8 @@
         "date": "Monday 06 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8291",
@@ -3047,7 +3161,8 @@
         "date": "Wednesday 01 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8386",
@@ -3061,7 +3176,8 @@
         "date": "Friday 24 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8680",
@@ -3083,7 +3199,8 @@
         "date": "Monday 03 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8682",
@@ -3105,7 +3222,8 @@
         "date": "Tuesday 28 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8683",
@@ -3127,7 +3245,8 @@
         "date": "Wednesday 29 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8684",
@@ -3149,7 +3268,8 @@
         "date": "Monday 20 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8686",
@@ -3171,7 +3291,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8689",
@@ -3193,7 +3314,8 @@
         "date": "Wednesday 01 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "8695",
@@ -3215,7 +3337,8 @@
         "date": "Wednesday 01 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9084",
@@ -3253,7 +3376,8 @@
         "date": "Wednesday 05 June 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9093",
@@ -3291,7 +3415,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9231",
@@ -3329,7 +3454,8 @@
         "date": "Wednesday 29 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9239",
@@ -3343,7 +3469,8 @@
         "date": "Thursday 02 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9395",
@@ -3373,7 +3500,8 @@
         "date": "Thursday 23 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9482",
@@ -3387,7 +3515,8 @@
         "date": "Saturday 25 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9483",
@@ -3401,7 +3530,8 @@
         "date": "Monday 20 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9484",
@@ -3439,7 +3569,8 @@
         "date": "Thursday 13 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9487",
@@ -3477,7 +3608,8 @@
         "date": "Friday 07 June 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9488",
@@ -3515,7 +3647,8 @@
         "date": "Wednesday 15 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9489",
@@ -3553,7 +3686,8 @@
         "date": "Friday 17 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9607",
@@ -3575,7 +3709,8 @@
         "date": "Wednesday 22 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9609",
@@ -3613,7 +3748,8 @@
         "date": "Monday 20 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9618",
@@ -3651,7 +3787,8 @@
         "date": "Thursday 23 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9626",
@@ -3673,7 +3810,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9676",
@@ -3711,7 +3849,8 @@
         "date": "Wednesday 05 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International A Level"
   },
   {
     "code": "9680",
@@ -3749,7 +3888,8 @@
         "date": "Wednesday 05 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International A Level"
   },
   {
     "code": "9689",
@@ -3787,7 +3927,8 @@
         "date": "Wednesday 05 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International A Level"
   },
   {
     "code": "9693",
@@ -3825,7 +3966,8 @@
         "date": "Friday 24 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9694",
@@ -3863,7 +4005,8 @@
         "date": "Thursday 16 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9695",
@@ -3901,7 +4044,8 @@
         "date": "Thursday 23 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9696",
@@ -3939,7 +4083,8 @@
         "date": "Friday 24 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9699",
@@ -3977,7 +4122,8 @@
         "date": "Thursday 30 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9700",
@@ -4031,7 +4177,8 @@
         "date": "Tuesday 14 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9701",
@@ -4085,7 +4232,8 @@
         "date": "Wednesday 15 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9702",
@@ -4139,7 +4287,8 @@
         "date": "Thursday 16 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9705",
@@ -4161,7 +4310,8 @@
         "date": "Thursday 09 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9706",
@@ -4199,7 +4349,8 @@
         "date": "Tuesday 21 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9708",
@@ -4237,7 +4388,8 @@
         "date": "Friday 17 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9709",
@@ -4291,7 +4443,8 @@
         "date": "Tuesday 07 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   },
   {
     "code": "9716",
@@ -4321,7 +4474,8 @@
         "date": "Friday 31 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International A Level"
   },
   {
     "code": "9717",
@@ -4351,7 +4505,8 @@
         "date": "Monday 03 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International A Level"
   },
   {
     "code": "9718",
@@ -4381,7 +4536,8 @@
         "date": "Monday 03 June 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International A Level"
   },
   {
     "code": "9844",
@@ -4411,7 +4567,8 @@
         "date": "Wednesday 15 May 2024",
         "session": "AM"
       }
-    ]
+    ],
+    "type": "Cambridge International A Level"
   },
   {
     "code": "9990",
@@ -4449,6 +4606,7 @@
         "date": "Tuesday 21 May 2024",
         "session": "PM"
       }
-    ]
+    ],
+    "type": "Cambridge International AS Level"
   }
 ]

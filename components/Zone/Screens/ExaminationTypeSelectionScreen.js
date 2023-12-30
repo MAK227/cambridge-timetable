@@ -1,10 +1,31 @@
 import { motion } from "framer-motion";
 import { useRouter } from "next/router";
-import React from "react";
 import { IoMdArrowRoundBack } from "react-icons/io";
+import { ZoneMap } from '../../../data/zone_map';
+
 
 const ExaminationTypeSelectionScreen = ({ zone, clickHandler }) => {
   const router = useRouter();
+
+  const data = ZoneMap[zone];
+
+  const type_dict = { "Cambridge IGCSE": 0, "Cambridge O Level": 0, "Cambridge International A Level": 0, "Cambridge International AS Level": 0 }
+
+  for (var i = 0; i < data.length; i++) {
+    if (data[i].type in type_dict) {
+      type_dict[data[i].type] += 1
+    } else {
+      type_dict[data[i].type] = 1
+    }
+  }
+
+
+  const isIGSCEButtonDisabled = type_dict["Cambridge IGCSE"] === 0
+
+  const isOLevelButtonDisabled = type_dict["Cambridge O Level"] === 0
+
+  const isALevelButtonDisabled = type_dict["Cambridge International A Level"] === 0 && type_dict["Cambridge International AS Level"] === 0
+
 
   return (
     <div className="h-auto w-screen">
@@ -55,6 +76,7 @@ const ExaminationTypeSelectionScreen = ({ zone, clickHandler }) => {
             Select Your Examination Type
           </motion.h1>
           {/** IGCSE Button */}
+
           <motion.div
             initial={{
               rotate: -5,
@@ -69,12 +91,14 @@ const ExaminationTypeSelectionScreen = ({ zone, clickHandler }) => {
             className="flex justify-center"
             layoutId="igcse"
           >
+
             <motion.button
               layoutId="igcse-button"
-              className="w-full rounded-2xl bg-primary px-14 py-3 font-[600] text-dark transition-all duration-300 hover:bg-white"
-              onClick={() => clickHandler("igcse")}
+              className={`w-full rounded-2xl px-14 py-3 font-[600] text-dark transition-all duration-300 ${isIGSCEButtonDisabled ? 'bg-green-200 cursor-not-allowed opacity-50' : 'bg-primary hover:bg-white'}`}
+              onClick={() => !isIGSCEButtonDisabled && clickHandler("igcse")}
+              disabled={isIGSCEButtonDisabled}
             >
-              Cambridge IGCSE
+              {`Cambridge IGCSE${isIGSCEButtonDisabled ? ' (Not Offered)' : ''}`}
             </motion.button>
           </motion.div>
 
@@ -95,10 +119,11 @@ const ExaminationTypeSelectionScreen = ({ zone, clickHandler }) => {
           >
             <motion.button
               layoutId="olevel-button"
-              className="w-full rounded-2xl bg-primary px-12 py-3 font-[600] text-dark transition-all duration-300 hover:bg-white"
+              className={`w-full rounded-2xl px-12 py-3 font-[600] text-dark transition-all duration-300 ${isOLevelButtonDisabled ? 'bg-green-200 cursor-not-allowed opacity-50' : 'bg-primary hover:bg-white'}`}
               onClick={() => clickHandler("olevel")}
+              disabled={isOLevelButtonDisabled}
             >
-              Cambridge O-Level
+              {`Cambridge O-Level${isOLevelButtonDisabled ? ' (Not Offered)' : ''}`}
             </motion.button>
           </motion.div>
 
@@ -119,10 +144,11 @@ const ExaminationTypeSelectionScreen = ({ zone, clickHandler }) => {
           >
             <motion.button
               layoutId="alevel-button"
-              className="w-full rounded-2xl bg-primary px-12 py-3 font-[600] text-dark transition-all duration-300 hover:bg-white"
-              onClick={() => clickHandler("alevel")}
+              className={`w-full rounded-2xl px-12 py-3 font-[600] text-dark transition-all duration-300 ${isALevelButtonDisabled ? 'bg-green-200 cursor-not-allowed opacity-50' : 'bg-primary hover:bg-white'}`}
+              onClick={() => !isALevelButtonDisabled && clickHandler("alevel")}
+              disabled={isALevelButtonDisabled}
             >
-              Cambridge A-Level
+              {`Cambridge A-Level${isALevelButtonDisabled ? ' (Not Offered)' : ''}`}
             </motion.button>
           </motion.div>
           <motion.div
