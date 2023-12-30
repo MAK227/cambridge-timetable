@@ -4,6 +4,7 @@ import zone3 from "@/data/zone3.json";
 import zone4 from "@/data/zone4.json";
 import zone5 from "@/data/zone5.json";
 import zone6 from "@/data/zone6.json";
+import zonex from "@/data/zonex.json";
 
 export const ZoneMap = {
   0: [],
@@ -15,6 +16,7 @@ export const ZoneMap = {
   4: zone4,
   5: zone5,
   6: zone6,
+  x: zonex,
 };
 
 export const SubjectMap = {
