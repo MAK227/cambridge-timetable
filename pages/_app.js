@@ -11,8 +11,8 @@ function MyApp({ Component, pageProps }) {
       <div className="min-h-screen w-screen overflow-x-hidden bg-dark font-poppins text-white">
         <Component {...pageProps} />
       </div>
-      <Analytics />
       <SpeedInsights />
+      <Analytics />
     </Fragment>
   );
 }
